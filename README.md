@@ -31,7 +31,7 @@ Hi, I'm [cfrs2005 ](http://www.80aj.com/), a Full Stack Developer 🚀 from Chin
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++; 
+- 🌱 I’m currently learning Algorithm; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@cfrs2005](https://twitter.com/cfrs2005);
 - 📝[Resume](http://www.80aj.com/jianli)
@@ -51,20 +51,10 @@ Hi, I'm [cfrs2005 ](http://www.80aj.com/), a Full Stack Developer 🚀 from Chin
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
-Vue.js       6 hrs 25 mins   ██████████████░░░░░░░░░░░   56.32 % 
-C++          4 hrs 44 mins   ██████████▒░░░░░░░░░░░░░░   41.62 % 
-Text         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-```
 <!--END_SECTION:waka-->
 
-🚧 **My Todoist Stats:**
+🚧 **My Todolist Stats:**
 <!-- TODO-IST:START -->
-🏆  5,825 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 9 tasks this week           
-✅  Completed 403 tasks so far           
-⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
 
