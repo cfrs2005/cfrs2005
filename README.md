@@ -53,11 +53,6 @@ Hi, I'm [cfrs2005 ](http://www.80aj.com/), a Full Stack Developer 🚀 from Chin
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-🚧 **My Todolist Stats:**
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
-
-
 <details>
 <summary>📈 My GitHub Stats</summary>
 
