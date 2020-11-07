@@ -24,7 +24,7 @@ Hi, I'm [cfrs2005 ](http://www.80aj.com/), a Full Stack Developer 🚀 from Chin
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Algorithm; 
-- 💬 Ask me about anything, I am happy to help;
+- 💬 If you have any question ask me about it , I am happy to help;
 - 📫 How to reach me: [@cfrs2005](https://twitter.com/cfrs2005);
 - 📝[Resume](http://www.80aj.com/jianli)
 
