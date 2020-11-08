@@ -52,9 +52,7 @@ YAML    40 mins         ▓░░░░░░░░░░░░░░░░░�
 
 <details>
 <summary>📈 My GitHub Stats</summary>
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cfrs2005&show_icons=true&theme=gotham" alt="cfrs2005" />
-
 </details>
 
 
