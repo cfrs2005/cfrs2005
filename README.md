@@ -43,7 +43,7 @@ Hi, I'm [cfrs2005 ](http://www.80aj.com/), a Full Stack Developer 🚀 from Chin
 <!--START_SECTION:waka-->
 
 ```text
-Other            28 hrs 35 mins  ████████████████████████▒   97.07 %
+Other            27 hrs 49 mins  ████████████████████████▒   96.81 %
 ```
 
 <!--END_SECTION:waka-->
