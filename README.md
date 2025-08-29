@@ -95,9 +95,6 @@ const toy = {
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cfrs2005&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=cfrs2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ---
 
