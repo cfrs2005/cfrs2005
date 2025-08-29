@@ -96,7 +96,7 @@ const toy = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cfrs2005&theme=tokyonight&hide_border=true" alt="cfrs2005" />
+  <img src="https://streak-stats.demolab.com?user=cfrs2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
