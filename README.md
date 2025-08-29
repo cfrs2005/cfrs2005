@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Eric 👋
+# Hi there, I'm Toy 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Senior+Engineering+Manager;AI+%26+Robotics+Systems+Architect;16%2B+Years+in+Software+Development)](https://git.io/typing-svg)
 
@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 ```typescript
-const eric = {
+const toy = {
     title: "Senior Engineering Manager",
     company: "Gaussian Robotics",
     location: "Shanghai, China",
